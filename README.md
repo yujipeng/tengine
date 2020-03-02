@@ -1,4 +1,6 @@
-# tengine
+# tengine 
+
+主要作用是在centos7 下的安装和更新命令，多机器同步依赖pssh
 
 ### 基本信息
 脚本目录： /mnt/tengine/
